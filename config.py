@@ -1,0 +1,1 @@
+HUGGINGFACE_API_KEY = "Your Token Here from Hugging Face"
